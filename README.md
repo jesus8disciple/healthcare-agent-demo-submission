@@ -26,7 +26,7 @@ This project was born from seeing how overwhelmed care teams can be with streams
 ## Technologies
 - **Google Cloud Run**, **Cloud Pub/Sub**, **Cloud Logging/Monitoring**  
 - **Python / Flask** services  
-- **gcloud CLI ** scripts for infra setup  
+- **gcloud CLI** for infra setup  
 - **GitHub** for version control & submission  
 
 ## Architecture
